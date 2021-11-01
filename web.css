@@ -1,0 +1,665 @@
+#este {
+    background-image: url("https://i.pinimg.com/originals/64/07/20/640720c9e0865f529369aa536f20cc3d.jpg");
+    background-size: cover;
+    
+}
+.columnas a{
+    text-decoration:none;
+    color: black;
+}
+.columnas a:hover{
+    color: white;
+}
+.columnas {
+    margin-left: 245px;
+    display:inline-flex;
+    font-size: 23px;
+    width: 65%;
+    border: black 1px;
+    border-style: solid;
+    border-radius: 3px;
+    font-family: 'Lucida Sans';
+}
+.columnas img{
+    width:8%;
+    height: 9%;
+    margin-left:35px;
+    margin-top: 11px;
+    margin-bottom: 10px;
+}
+.columnas li{
+    display: inline;
+    padding: 8px;
+    color: black;
+    margin-right: 10px;
+}
+.columnas ul{
+    margin-top: 25px;
+
+}
+.columnas li:hover {
+    color: white;
+    background-color:black;
+}
+
+#introduccion {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+#titulo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+#titulo h1{
+    font-size: 45px;
+}
+#este thead th {
+  background: #9ab403;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+#este th {
+    padding: 5px;
+}
+#este td {
+    text-align: center;
+}
+#este tr {
+    background: #f4f7f8;
+    margin-bottom: 5px;
+}
+#este table {
+    margin-left: auto;
+  margin-right: auto;
+}
+.lista {
+    text-align: center;
+}
+#realitys {
+    font-size: 17px;
+    border: solid black 1px;
+    margin-top: 20px;
+    width: 30%;
+    height: fit-content;
+}
+.dos {
+    display: inline-flex;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.imagen img {
+    width: 85%;
+    padding-left: 100px;
+}
+#realitys li{
+    padding: 2px;
+}
+
+#granhermano p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#granhermano h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#granhermano table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+     height:fit-content;
+     margin-top: 15px;
+}
+
+
+#granhermano th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#granhermano td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#granhermano table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#granhermano a{
+    text-decoration: none;
+}
+
+#granhermano a:hover{
+    text-decoration: underline;
+}
+
+#bloque2 img{
+    width: 48%;
+    margin-left: 25px;
+}
+
+#bloque2{
+    display: inline-flex;
+
+}
+#realitys p{
+    text-align: center;
+    font-style:inherit;
+  }
+
+  #granhermanovip p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#granhermanovip h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#granhermanovip table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+}
+
+#granhermanovip th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#granhermanovip td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#granhermanovip table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#granhermanovip a{
+    text-decoration: none;
+}
+
+#granhermanovip a:hover{
+    text-decoration: underline;
+}
+
+#granhermanovip table{
+    height: fit-content;
+    margin-top: 40px;
+}
+
+#granhermanoduo p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#granhermanoduo h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#granhermanoduo table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+}
+
+#granhermanoduo th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#granhermanoduo td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#granhermanoduo table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#granhermanoduo a{
+    text-decoration: none;
+}
+
+#granhermanoduo a:hover{
+    text-decoration: underline;
+}
+
+#granhermanoduo table{
+    height: fit-content;
+    margin-top: 40px;
+}
+
+#granhermanoduo img{
+    margin-left: 50px;
+}
+
+#granhermanoree p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#granhermanoree h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#granhermanoree table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+}
+
+#granhermanoree th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#granhermanoree td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#granhermanoree table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#granhermanoree a{
+    text-decoration: none;
+}
+
+#granhermanoree a:hover{
+    text-decoration: underline;
+}
+
+#granhermanoree table{
+    height: fit-content;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+
+#granhermanoree img{
+    margin-left: 25px;
+}
+
+#etd p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#etd h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#etd table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+}
+
+#etd th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#etd td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#etd table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#etd a{
+    text-decoration: none;
+}
+
+#etd a:hover{
+    text-decoration: underline;
+}
+
+#etd table{
+    height: fit-content;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+
+#etd img{
+    margin-left: 25px;
+}
+
+#supervivientes p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#supervivientes h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#supervivientes table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+}
+
+#supervivientes th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#supervivientes td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#supervivientes table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#supervivientes a{
+    text-decoration: none;
+}
+
+#supervivientes a:hover{
+    text-decoration: underline;
+}
+
+#supervivientes table{
+    height: fit-content;
+    margin-right: 40px;
+}
+
+#supervivientes img{
+    margin-top: 15px;
+    margin-left: 25px;
+    width:50%;
+    height:50%
+}
+
+#lacasafuerte p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#lacasafuerte h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#lacasafuerte table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+}
+
+#lacasafuerte th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#lacasafuerte td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#lacasafuerte table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#lacasafuerte a{
+    text-decoration: none;
+}
+
+#lacasafuerte a:hover{
+    text-decoration: underline;
+}
+
+#lacasafuerte table{
+    height: fit-content;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+#lacasafuerte img{
+    margin-top: 15px;
+    margin-left: 25px;
+    width:45%;
+    height:45%;
+}
+
+
+#lidlt p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#lidlt h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#lidlt table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+}
+
+#lidlt th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#lidlt td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#lidlt table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#lidlt a{
+    text-decoration: none;
+}
+
+#lidlt a:hover{
+    text-decoration: underline;
+}
+
+#lidlt table{
+    height: fit-content;
+    margin-right: 40px;
+    margin-top: 80px;
+    margin-left: 140px;
+}
+
+#lidlt img{
+    margin-top: 15px;
+    margin-left: 55px;
+    width:50%;
+    height:40%;
+}
+
+h2{
+    margin-top: 40px;
+}
+
+#secret  p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+#secret h2{
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#secret table {
+     text-align: center;
+     background-color: white;
+     border-collapse: collapse;
+     margin-left: 70px;
+}
+
+#secret th{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+#secret td{
+    background-color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 14px;
+}
+
+#secret table, tr, th, td{
+    border: 1px solid black;
+  }
+
+
+#secret a{
+    text-decoration: none;
+}
+
+#secret a:hover{
+    text-decoration: underline;
+}
+
+#secret table{
+    height: fit-content;
+    margin-right: 40px;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+#secret img{
+    margin-top: 5px;
+    margin-left: 75px;
+    width: 50%;
+    height:70%;
+}
+/* EXPLICACION REDES SOCIALES  */
+
+.social-bar{
+    position: fixed;
+    right: 0;
+    top: 35%;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction:column;
+    align-items: flex-end;
+    z-index: 100;
+}
+
+.icon{
+    color: white;
+    text-decoration: none;
+    padding: .7rem;
+    display: flex;
+    transition: all .5s;
+}
+
+.icon-facebook2{
+    background: #2E406E;
+
+}
+.icon-twitter{
+    background: #339DC5;
+}
+.icon-youtube{
+    background: #E83028;
+}
+
+.icon-instagram{
+    background: #3F60A5;
+}
+
+.icon:first-child{
+    border-radius: 1rem 0 0 0;
+
+}
+
+.icon:last-child{
+    border-radius: 0 0 0 1rem;
+}
+.icon:hover{
+    padding-right: 3rem;
+    border-radius: 1rem 0 0 1rem;
+    box-shadow: 0 0 .5rem rgba(0,0,0.42);
+}

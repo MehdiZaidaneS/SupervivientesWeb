@@ -1,0 +1,3 @@
+$(function(){
+    $('#lidlt').tablesorter(); 
+  });

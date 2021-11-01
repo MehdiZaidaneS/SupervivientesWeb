@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.columnas a{
+    text-decoration:none;
+    color: black;
+}
+.columnas a:hover{
+    color: white;
+}
+.columnas {
+    margin-left: 245px;
+    display:inline-flex;
+    font-size: 23px;
+    width: 65%;
+    border: black 1px;
+    border-style: solid;
+    border-radius: 3px;
+    font-family: 'Lucida Sans';
+    margin-top: 10px;
+}
+.columnas img{
+    width:8%;
+    height: 9%;
+    margin-left:35px;
+    margin-top: 11px;
+    margin-bottom: 10px;
+}
+
+li.meh{
+    margin-left: 30px;
+}
+.columnas li{
+    display: inline;
+    padding: 8px;
+    color: black;
+    margin-right: 10px;
+}
+.columnas ul{
+    margin-top: 25px;
+
+}
+.columnas li:hover {
+    color: white;
+    background-color:black;
+}
+.social-bar{
+    position: fixed;
+    right: 0;
+    top: 35%;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction:column;
+    align-items: flex-end;
+    z-index: 100;
+}
+.icon{
+    color: white;
+    text-decoration: none;
+    padding: .7rem;
+    display: flex;
+    transition: all .5s;
+}
+.icon-facebook2{
+    background: #2E406E;
+
+}
+.icon-twitter{
+    background: #339DC5;
+}
+.icon-youtube{
+    background: #E83028;
+}
+.icon-instagram{
+    background: #3F60A5;
+}
+.icon:first-child{
+    border-radius: 1rem 0 0 0;
+
+}
+.icon:last-child{
+    border-radius: 0 0 0 1rem;
+}
+.icon:hover{
+    padding-right: 3rem;
+    border-radius: 1rem 0 0 1rem;
+    box-shadow: 0 0 .5rem rgba(0,0,0.42);
+}
+
+
+.encabezado h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Playfair Display SC', serif;
+    color: black;
+    margin-top: 15px;
+
+}
+
+#myTable, td, th{
+    text-align: center;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th{
+    margin: 0 auto;
+}
+
+
